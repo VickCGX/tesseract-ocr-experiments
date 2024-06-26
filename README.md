@@ -1,6 +1,6 @@
 # Tesseract OCR Experiments
 
-Welcome to the Tesseract OCR Experiments repository! This project is dedicated to exploring, experimenting with, and understanding the Tesseract OCR (Optical Character Recognition) library.
+Welcome! This project is dedicated to exploring, experimenting with, and understanding the Tesseract OCR (Optical Character Recognition) library.
 
 ## Introduction
 
